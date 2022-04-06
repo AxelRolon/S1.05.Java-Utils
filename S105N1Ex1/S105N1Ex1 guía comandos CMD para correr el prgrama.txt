@@ -1,0 +1,5 @@
+S105N1Ex1 controles paraq correr en CMD
+
+C:\Users\formacio\IdeaProjects\Java Utils\src\S105N1Ex1>javac Directory.java
+
+C:\Users\formacio\IdeaProjects\Java Utils\src>java S105N1Ex1.Directory

@@ -1,0 +1,3 @@
+C:\Users\formacio\IdeaProjects\Java Utils\src\S105N1Ex2>javac DirectoryTree.java
+C:\Users\formacio\IdeaProjects\Java Utils\src\S105N1Ex2>cd ..
+C:\Users\formacio\IdeaProjects\Java Utils\src>java S105N1Ex2.DirectoryTree
