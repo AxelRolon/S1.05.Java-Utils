@@ -1,0 +1,5 @@
+C:\Users\formacio>cd C:\Users\formacio\IdeaProjects\src\S105N1Ex3
+C:\Users\formacio\IdeaProjects\src\S105N1Ex3>dir
+C:\Users\formacio\IdeaProjects\src\S105N1Ex3>javac Directorytxt.java
+C:\Users\formacio\IdeaProjects\src\S105N1Ex3>cd ..
+C:\Users\formacio\IdeaProjects\src>java S105N1Ex3.Directorytxt
